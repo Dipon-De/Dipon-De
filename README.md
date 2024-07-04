@@ -1,8 +1,8 @@
 ![Banner GitHub](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 
 <div align="center">
-  <a href="www.linkedin.com/in/dipon-de-2a9570256"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-  <a href="mailto:dipondeofficial2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Dipon i.e.   dipondeofficial2468@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/dipon-de-2a9570256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!--   <a href="mailto:dipondeofficial2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Dipon i.e.   dipondeofficial2468@gmail.com" /></a> -->
 </div>
 <br>
 
@@ -89,8 +89,9 @@
 <br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/dipon-de-2a9570256"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-  <a href="mailto:dipondeofficial2468@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Dipon i.e.   dipondeofficial2468@gmail.com" /></a>
+  <h2>Know me well</h2><br>
+  <a href="https://www.linkedin.com/in/dipon-de-2a9570256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
   
 </div>
 
@@ -110,6 +111,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dipon-De/Dipon-De/output/github-contribution-grid-snake-dark.svg)
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
