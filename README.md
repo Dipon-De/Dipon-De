@@ -227,41 +227,11 @@ class DiponDe:
 
 ---
 
-## 🌐 3D Contribution Graph
+## 📈 Contribution Overview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dipon-De/Dipon-De/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipon-De&theme=tokyonight" width="96%" alt="Profile Summary"/>
 </div>
-
-<details>
-<summary><b>How to activate the 3D graph (one-time setup)</b></summary>
-<br/>
-
-Place `.github/workflows/profile-3d.yml` in your profile repo (already included):
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: regenerate 3D contrib graph"
-```
-
-Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow**.
-
-</details>
 
 ---
 
